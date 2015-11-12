@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Shape</key>
+	<dict>
+		<key>Normal</key>
+		<dict>
+			<key>BorderWidth</key>
+			<integer>2</integer>
+			<key>BorderColor</key>
+			<string>#000000</string>
+			<key>CornerRadius</key>
+			<integer>5</integer>
+			<key>TextColor</key>
+			<string>#000000</string>
+		</dict>
+		<key>Highlight</key>
+		<dict>
+			<key>BorderWidth</key>
+			<integer>2</integer>
+			<key>BorderColor</key>
+			<string>#FF0000</string>
+			<key>CornerRadius</key>
+			<integer>5</integer>
+			<key>TextColor</key>
+			<string>#000000</string>
+		</dict>
+	</dict>
+	<key>Flow</key>
+	<dict>
+		<key>Normal</key>
+		<dict>
+			<key>LineWidth</key>
+			<integer>2</integer>
+			<key>LineColor</key>
+			<string>#000000</string>
+			<key>LineRadius</key>
+			<integer>5</integer>
+		</dict>
+		<key>Highlight</key>
+		<dict>
+			<key>LineWidth</key>
+			<integer>2</integer>
+			<key>LineColor</key>
+			<string>#FF0000</string>
+			<key>LineRadius</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
